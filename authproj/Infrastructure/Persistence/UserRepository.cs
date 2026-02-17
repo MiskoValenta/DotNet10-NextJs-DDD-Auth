@@ -1,0 +1,34 @@
+﻿using Domain.Entities;
+using Domain.Repositories;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Infrastructure.Persistence;
+
+public class UserRepository : IUserRepository
+{
+  private readonly AppDbContext _context;
+  public UserRepository(AppDbContext context) => _context = context;
+
+  public async Task<User?> GetByEmailAsync(string email) =>
+      await _context.Users.SingleOrDefaultAsync(u => u.Email == email);
+
+  public async Task<User?> GetByRefreshTokenAsync(string refreshToken)
+  {
+    return await _context.Users.SingleOrDefaultAsync(u => u.RefreshToken == refreshToken);
+  }
+
+  public async Task AddAsync(User user)
+  {
+    await _context.Users.AddAsync(user);
+    await _context.SaveChangesAsync();
+  }
+
+  public async Task UpdateAsync(User user)
+  {
+    _context.Users.Update(user);
+    await _context.SaveChangesAsync();
+  }
+}

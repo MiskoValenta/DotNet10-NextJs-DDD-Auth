@@ -1,0 +1,17 @@
+B:\Projects\tutorials\authproj\Application\bin\Debug\net10.0\Application.deps.json
+B:\Projects\tutorials\authproj\Application\bin\Debug\net10.0\Application.runtimeconfig.json
+B:\Projects\tutorials\authproj\Application\bin\Debug\net10.0\Application.dll
+B:\Projects\tutorials\authproj\Application\bin\Debug\net10.0\Application.pdb
+B:\Projects\tutorials\authproj\Application\bin\Debug\net10.0\Domain.dll
+B:\Projects\tutorials\authproj\Application\bin\Debug\net10.0\Domain.pdb
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Application.dll
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\refint\Application.dll
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Application.pdb
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\Application.genruntimeconfig.cache
+B:\Projects\tutorials\authproj\Application\obj\Debug\net10.0\ref\Application.dll
