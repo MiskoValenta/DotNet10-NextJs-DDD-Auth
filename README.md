@@ -119,3 +119,13 @@ npm run dev
 * Upon successful registration, the API will attach `HttpOnly` cookies to your browser and Next.js will redirect you to the protected `/dashboard`.
 * **Test the Auto-Refresh:** The Access Token expires in 1 minute. Wait for 61 seconds on the dashboard, then refresh the page. You will see (in the Network tab) that the application seamlessly intercepts the `401` error, hits the `/refresh` endpoint, receives new cookies, and completes your request without logging you out.
 * Click **"Log out"** to delete the cookies and be redirected back to the login screen. Try manually navigating to `/dashboard` via the URL bar to see the Next.js Middleware block you.
+
+---
+
+## Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+---
+
+## License
+This project is MIT licensed.
