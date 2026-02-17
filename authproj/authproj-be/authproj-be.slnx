@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Application/Application.csproj" Id="f31f2cb1-807a-427e-bea6-a693f2536653" />
+  <Project Path="../Domain/Domain.csproj" Id="0f0ee0c5-b2c5-4807-92f1-ad949bd0836c" />
+  <Project Path="../Infrastructure/Infrastructure.csproj" Id="cce7c018-c205-4d26-8471-d5720bd5b9d0" />
+  <Project Path="authproj-be.csproj" />
+</Solution>
