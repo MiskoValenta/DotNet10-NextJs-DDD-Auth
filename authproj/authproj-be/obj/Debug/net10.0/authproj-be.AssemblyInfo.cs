@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("authproj-be")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f36c356f6d94dff2ffddbd57bb22ea7283dbf53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5afb1cf1ffc43b3cbe40e39688ae2a61906867")]
 [assembly: System.Reflection.AssemblyProductAttribute("authproj-be")]
 [assembly: System.Reflection.AssemblyTitleAttribute("authproj-be")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

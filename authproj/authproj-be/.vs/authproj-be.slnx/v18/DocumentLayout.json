@@ -1,12 +1,102 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\authproj-be\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B549B291-628C-99B9-4B55-4A00CEF6159E}|authproj-be.csproj|b:\\projects\\repositories\\dotnet10-nextjs-ddd-auth\\authproj\\authproj-be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B549B291-628C-99B9-4B55-4A00CEF6159E}|authproj-be.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B549B291-628C-99B9-4B55-4A00CEF6159E}|authproj-be.csproj|b:\\projects\\repositories\\dotnet10-nextjs-ddd-auth\\authproj\\authproj-be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B549B291-628C-99B9-4B55-4A00CEF6159E}|authproj-be.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31F2CB1-807A-427E-BEA6-A693F2536653}|..\\Application\\Application.csproj|b:\\projects\\repositories\\dotnet10-nextjs-ddd-auth\\authproj\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE7C018-C205-4D26-8471-D5720BD5B9D0}|..\\Infrastructure\\Infrastructure.csproj|b:\\projects\\repositories\\dotnet10-nextjs-ddd-auth\\authproj\\infrastructure\\security\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31F2CB1-807A-427E-BEA6-A693F2536653}|..\\Application\\Application.csproj|b:\\projects\\repositories\\dotnet10-nextjs-ddd-auth\\authproj\\application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\authproj-be\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\authproj-be\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T22:01:42.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\authproj-be\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\authproj-be\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T21:59:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\AuthService.cs",
+              "ToolTip": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:59:18.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\IAuthService.cs",
+              "ToolTip": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:59:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\Infrastructure\\Security\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Security\\JwtProvider.cs",
+              "ToolTip": "B:\\Projects\\Repositories\\DotNet10-NextJs-DDD-Auth\\authproj\\Infrastructure\\Security\\JwtProvider.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Security\\JwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:59:11.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
