@@ -47,7 +47,7 @@ public class AuthController : ControllerBase
 
       var tokens = await _authService.RefreshTokensAsync(refreshToken);
       SetTokensInCookies(tokens.AccessToken, tokens.RefreshToken);
-      return Ok(new { message = "Tokeny obnoveny" });
+      return Ok(new { message = "Tokens were renewed" });
     }
     catch (Exception ex) { return Unauthorized(new { message = ex.Message }); }
   }
